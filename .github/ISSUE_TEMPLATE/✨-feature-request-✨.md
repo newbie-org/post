@@ -1,7 +1,7 @@
 ---
 name: "✨ Feature request ✨"
 about: 기능 개발에 대한 요구사항
-title: "[FEAT]"
+title: "[Feat]"
 labels: ''
 assignees: ''
 
